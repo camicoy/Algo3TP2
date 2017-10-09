@@ -1,0 +1,7 @@
+Utilizamos la libreria c11, por lo que para compilar se necesita poner -std=c++11
+
+TP2EJ3 tiene dos modos:
+Si se le pasa como primer parametro un 1 se le debe pasar como segundo parametro el nombre de el archivo que se desea ejecutar
+Si se le pasa como primer parametro un 2, el programa creará instancias a las cuales le tomará el tiempo
+
+A testCorrectitud se le debe pasar como parametro dos archivos y dira si se diferencian

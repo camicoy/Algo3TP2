@@ -1,0 +1,7 @@
+Para compilar tipear en una consola: javac Ejercicio2.java Ej2Tiempos.java GeneradorInstanciasEj2.java GeneradorInstanciasEj2MejorCaso.java GeneradorInstanciasAleatorioMismo.java Nodo.java
+
+Para ejecutar las clases GeneradorInstanciasEj2, GeneradorInstanciasEj2MejorCaso y GeneradorInstanciasAleatorioMismo, tipear: java GeneradorInstanciasEj2, java GeneradorInstanciasEj2MejorCaso, java GeneradorInstanciasAleatorioMismo, respectivamete
+
+Para ejecutar el ejercicio 2 tipear: java Ejercicio2 <entrada.in>
+
+Para ejecutar Ej2Tiempos tipear: java Ej2Tiempos <entrada.in>
